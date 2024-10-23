@@ -10,7 +10,11 @@ watsonx-gov folder containes previous watosnx.governance deep dive multiple labs
 ## Relevant Links and Environment Access
 
 Github:  
+
 Box Folder: 
+
 watsonx URL:  https://dataplatform.cloud.ibm.com/wx/home?context=wx
+
 IBM Cloud URL:  https://cloud.ibm.com/
+
 IBM watsonx.governance URL: 
